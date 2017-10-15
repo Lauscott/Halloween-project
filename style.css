@@ -1,0 +1,100 @@
+body{
+  background-size: cover;
+  font-family: 'Nosifer', cursive;
+  
+}
+
+h1{
+  color: #100007;
+  font-weight: bolder;
+  font-size: 30px;
+}
+h2 {
+  color: #2E0014;
+  font-weight: lighter;
+  font-size: 25px;
+}
+a {
+  color: black;
+}
+
+p {
+  color: #6F1D1B;
+}
+a:hover {
+  text-decoration: none;
+  color: black;
+}
+
+#banner {
+  background-image: url("http://3gicrq41iz1925z0km3wz1tu.wpengine.netdna-cdn.com/wp-content/uploads/2017/09/haunted_house_by_daaksm.jpg");
+  background-size: cover;
+  padding: 150px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+#banner h1{
+  font-size: 60px;
+  color: white;
+}
+
+#banner p{
+  font-size: 20px;
+}
+
+#banner a{
+  color: white;
+}
+
+#bonbon{
+  background-image: url("https://i.pinimg.com/originals/64/cc/86/64cc86966187b1a33d14fb49b0465653.jpg");
+  background-size: cover;
+  padding: 150px;
+}
+
+#maquillage{
+  background-image: url("https://i.ytimg.com/vi/HHuHdZ4zgMc/maxresdefault.jpg");
+  background-size: cover;
+  padding: 150px;
+}
+
+#deco{
+  background-image: url("http://www.ideo-energies.fr/wp-content/uploads/2017/10/belle-dC3A9coration-maison-hantC3A9e-695x390.jpg");
+  background-size: cover;
+  padding: 150px;
+}
+
+#deguisement{
+  background-image: url("https://i.pinimg.com/736x/4b/42/86/4b4286c9c5acf501ecd02de6fabd9d8c--terrifying-horror-movies-scary.jpg");
+  background-size: cover;
+  padding: 150px;
+}
+
+.card{
+  text-align: center;
+  background-color: black;
+  border-radius: 10px;
+  margin-bottom:10px;
+  padding: 5px;
+}
+
+.card h2{
+  color:white;
+  font-size: 20px;
+}
+.card i{
+  font-size:100px;
+}
+#footer{
+  background-color: black;
+  text-align: center;
+}
+
+#footer a{
+  color: red;
+  font-size: 40px;
+}
+
+#footer a:hover {
+  color: white;
+}
